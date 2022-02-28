@@ -1,8 +1,8 @@
 /**********************************************************************/
 // ENGR-2350 Lab2-Timed Game
 // Name: Yijia Zhou, Zhoukai Wang
-// RIN: 661995479,
-// Side: A; Seat:
+// RIN: 661995479, 66204681
+// Side: A; Seat;
 // This is the base project for several activities and labs throughout
 // the course.  The outline provided below isn't necessarily *required*
 // by a C program; however, this format is required within ENGR-2350
